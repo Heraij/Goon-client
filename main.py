@@ -1,0 +1,4 @@
+print("bradar you fr thought me dumass make a mc client or sum?")
+print("fr i aint that smart")
+print("Plz support so i can make client thxhxhxhxhhxhhxhxhxhxhx")
+print("Very not scam studios© 2026 ")
